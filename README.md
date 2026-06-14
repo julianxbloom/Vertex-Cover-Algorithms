@@ -1,2 +1,7 @@
-# Vertex Cover Algorithms
-Computer Programming 2 final project of the second semester at PSL's International Bachelor of Science in Artificial Intelligence. It implements various algorithms to approximate solutions to the vertex cover problem.
+# Vertex Cover Solver and Benchmark
+## How to use
+Run main.py and follow the described steps to end up either visualizing an approximated vertex cover of your input graph, or algorithm benchmarks.
+## Implemented Algorithms
+- 2-approximated greedy
+- LP-relaxation rounding
+- Branch and bound
